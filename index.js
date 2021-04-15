@@ -18,4 +18,3 @@ newHeader.innerHTML = "Ali is the champion";
 innerText = document.createTextNode("Ali is the champion");
 newHeader.appendChild(innerText);
 document.body.appendChild(newHeader);
-
